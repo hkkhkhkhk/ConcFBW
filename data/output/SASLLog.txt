@@ -1,0 +1,45 @@
+[CONCFBW INFO]: Initializing...
+[CONCFBW INFO]: Path to module: D:\X-Plane 11/Aircraft/Test/Concorde/plugins/ConcFBW/data/modules/main.lua
+[CONCFBW INFO]: Loading module...
+[CONCFBW INFO]: [LUA]: loading	module
+[CONCFBW INFO]: [LUA]: including	datarefs.lua
+[CONCFBW INFO]: [LUA]: including	functions.lua
+[CONCFBW INFO]: [LUA]: loading	rates_computation
+[CONCFBW INFO]: [LUA]: loading	simpleap
+[CONCFBW INFO]: [LUA]: including	flightcontrol/fly_the_airplane.lua
+[CONCFBW INFO]: [LUA]: including	pid_arrays.lua
+[CONCFBW INFO]: [LUA]: including	flightcontrol/vs_hold.lua
+[CONCFBW INFO]: [LUA]: including	pid_arrays.lua
+[CONCFBW INFO]: [LUA]: including	flightcontrol/manual_flight.lua
+[CONCFBW INFO]: [LUA]: including	flightcontrol/yaw_rate_by_roll.lua
+[CONCFBW INFO]: [LUA]: including	pid_arrays.lua
+[CONCFBW INFO]: [LUA]: including	flightcontrol/loc_tracking.lua
+[CONCFBW INFO]: [LUA]: including	pid_arrays.lua
+[CONCFBW INFO]: [LUA]: including	flightcontrol/bank_angle_hold.lua
+[CONCFBW INFO]: [LUA]: including	flightcontrol/glideslope_tracking.lua
+[CONCFBW INFO]: [LUA]: including	pid_arrays.lua
+[CONCFBW INFO]: [LUA]: including	flightcontrol/beta_killer.lua
+[CONCFBW INFO]: [LUA]: including	pid_arrays.lua
+[CONCFBW INFO]: [LUA]: including	flightcontrol/rollout.lua
+[CONCFBW INFO]: [LUA]: including	pid_arrays.lua
+[CONCFBW INFO]: [LUA]: loading	simpleap_ui
+[CONCFBW INFO]: [LUA]: loading	fbw_ui
+[CONCFBW INFO]: Module loaded
+[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 0
+[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 9.7852048873901
+[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 11.583076477051
+[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 9.8039350509644
+[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 9.6411027908325
+[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 9.6488933563232
+[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 9.6488933563232
+[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 9.6488933563232
+[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 8.4703912734985
+[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 8.4794826507568
+[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 8.4834089279175
+[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 8.4789514541626
+[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 8.4791603088379
+[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 8.4795570373535
+[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 8.4797763824463
+[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 8.479022026062
+[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 8.4791698455811
+[CONCFBW INFO]: Disabling...
