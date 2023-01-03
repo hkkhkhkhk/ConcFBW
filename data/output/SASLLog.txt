@@ -26,20 +26,3 @@
 [CONCFBW INFO]: [LUA]: loading	fbw_ui
 [CONCFBW INFO]: Module loaded
 [CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 0
-[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 9.7852048873901
-[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 11.583076477051
-[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 9.8039350509644
-[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 9.6411027908325
-[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 9.6488933563232
-[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 9.6488933563232
-[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 9.6488933563232
-[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 8.4703912734985
-[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 8.4794826507568
-[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 8.4834089279175
-[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 8.4789514541626
-[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 8.4791603088379
-[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 8.4795570373535
-[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 8.4797763824463
-[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 8.479022026062
-[CONCFBW INFO]: [LUA]: "simpleap"	snapshot taken, ATT is 8.4791698455811
-[CONCFBW INFO]: Disabling...
