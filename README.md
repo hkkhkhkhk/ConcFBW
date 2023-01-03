@@ -12,7 +12,7 @@ It is purely an test in my knowledgebase in cascade control loops, and do not se
 
 All system architectures are designed and drawn by me.
 
-Demo:
+Demo (click on the video):
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/sue2V4H49L4/0.jpg)](http://www.youtube.com/watch?v=sue2V4H49L4 "Video Title")
 
