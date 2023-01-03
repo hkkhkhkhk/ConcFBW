@@ -1,6 +1,6 @@
 # ConcFBW
 ## A Stability Augmentation and Autonomous Landing Plugin for Concorde
-### June 2022 - Jan 2023
+### June 2022 - Jan 2023 Designed by Henrick K. 
 
 This all started when I had a deep interest in control theory, and would like to create a stablisation plugin for the Concorde in the X-Plane 11 Flight Simulator, which was created by developer Colimata.
 
