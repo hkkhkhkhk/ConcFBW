@@ -14,6 +14,11 @@ Enjoy the description below.
 
 ### Logics
 
+The first diagram below is an overview of the aircraft's response system. Both stick and autopilot inputs are first processed and then sent into the system, demanding rates on each axis as an input. 
+Main components include PID controllers, interpolators, RC filters, etc. 
+
+The output of the system is fed directly into the Elevator and the Trimmable Horizontal Stabliser (THS).
+
 ![alt text](https://github.com/hkkhkhkhk/ConcFBW/blob/main/diagrams/flytheairplane.png)
 
 ![alt text](https://github.com/hkkhkhkhk/ConcFBW/blob/main/diagrams/yawdamper.png)
