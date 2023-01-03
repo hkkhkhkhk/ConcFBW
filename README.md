@@ -12,6 +12,10 @@ It is purely an test in my knowledgebase in cascade control loops, and do not se
 
 All system architectures are designed and drawn by me.
 
+Demo:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/sue2V4H49L4/0.jpg)](http://www.youtube.com/watch?v=sue2V4H49L4 "Video Title")
+
 ### Controlling by Rates
 
 The first diagram below is an overview of the aircraft's response system. Both stick and autopilot inputs are first processed and then sent into the system, demanding rates on each axis as an input. 
