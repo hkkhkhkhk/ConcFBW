@@ -5,4 +5,4 @@ https://github.com/hkkhkhkhk/ConcFBW/blob/main/diagrams/pitchcontrol.html
 https://github.com/hkkhkhkhk/ConcFBW/blob/main/diagrams/yawcontrol.html
 
 
-![alt text]([http://url/to/img.png](https://github.com/hkkhkhkhk/ConcFBW/blob/main/diagrams/autoland.html))
+![alt text](https://github.com/hkkhkhkhk/ConcFBW/blob/main/diagrams/autoland.png)
